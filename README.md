@@ -129,7 +129,8 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![Alt text](<Screenshot 2023-11-15 133317.png>)
+![Screenshot 2023-11-15 133317](https://github.com/DHARANIDHARAN03K/slot/assets/144870858/21c0fbaf-2728-448e-84eb-f76caa119ed8)
+
 
 
 ## RESULT
